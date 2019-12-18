@@ -27,7 +27,7 @@ npm install
 npm run serverstart
 ```
 
-![](C:\Users\Sam\Desktop\Node\library\Web server form handling.png)
+![](\Web server form handling.png)
 
 - `catalog/` — The home/index page.
 - `catalog//` — The list of all books, bookinstances, genres, or authors (e.g. /`catalog/books/`, /`catalog/genres/`, etc.)
