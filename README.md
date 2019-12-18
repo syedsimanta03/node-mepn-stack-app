@@ -27,7 +27,7 @@ npm install
 npm run serverstart
 ```
 
-![](\Web server form handling.png)
+![server](https://github.com/syedsimanta03/node-mepn-stack-app/blob/master/Web%20server%20form%20handling.png)
 
 - `catalog/` — The home/index page.
 - `catalog//` — The list of all books, bookinstances, genres, or authors (e.g. /`catalog/books/`, /`catalog/genres/`, etc.)
