@@ -3,3 +3,18 @@
     padding: 0;
     list-style: none;
 }
+
+.shadows {
+  box-shadow: 0 0 2rem 0 rgba(136,152,170,.15);
+}
+
+.cen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-img {
+    height: 478px;
+    background: url(../images/bookluv.svg) center center no-repeat;
+}
